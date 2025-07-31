@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+body {
+  position: relative;
+  min-height: 100vh;
+  background:
+    linear-gradient(90deg, rgba(24, 20, 110, 0.8) 2%, rgba(55, 55, 161, 0.8) 33%, rgba(59, 59, 150, 0.8) 35%, rgba(83, 221, 245, 0.8) 100%);
+  background-blend-mode: overlay;
+  overflow-x: hidden;
+}
+
